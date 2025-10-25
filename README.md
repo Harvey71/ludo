@@ -25,7 +25,7 @@ You would also need:
 - 3 mm MDF board (US: https://amzn.to/4hph2nw D: https://amzn.to/4fq6QbH *)
 - Colored wooden board game pieces (US: https://amzn.to/4ouxaGw D: https://amzn.to/3WVzM4x *)
 - Self adhesive masking paper (US: https://amzn.to/47ciC92 D: https://amzn.to/4oFxum1 *)
-- Acrylic paint set (US: https://amzn.to/3LrUl68 D: https://www.amazon.de/dp/B0BZDRRQ7L *) and a proper brush
+- Acrylic paint set (US: https://amzn.to/3LrUl68 D: https://amzn.to/430YHr4 *) and a proper brush
 - Wood glue with long assembly time (US: https://amzn.to/4oIyZ33 D: https://amzn.to/4oxKXfv *)
 - Any W6 dice and a bag
 

@@ -8,7 +8,7 @@ I guess the english pendant is "Ludo", which is designed a bit differently,
 but has the same rules.
 
 This is an easily customizable engaving/cutting design for four players.
-For how to reproduce it, please watch my video on youTube.
+For how to reproduce it, please watch my [video](https://youtu.be/lAsyDLKHfdg) on youTube.
 
 ![board_view.JPG](board_view.JPG)
 
